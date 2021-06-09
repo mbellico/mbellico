@@ -1,10 +1,10 @@
 <h1 align=Center> Hello There! I'm Melisa D. Bellico :wave: </h1> 
 
 I am an Argentinian Junior QA Manual and Automation tester. 
-Testing is my passion and achieving a high quality software product is my goal. :nerd_face:
+Testing is my passion and achieving a high quality software product is my goal.
 
-I invite yo to take a look at the projects I've been working at.
-Please feel free to contact me if you have any query or suggestion.
+I invite you to take a look at the projects I've been working at.
+Please feel free to contact me if you have any query or suggestion.-
 
 **Tecnology stack I've been working with**
 
