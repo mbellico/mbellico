@@ -1,7 +1,10 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**mbellico/mbellico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align=Center> I'm Melisa D. Bellico</h1>
+<h1 align=Center> QA Automation Junior </h1>
+
+I invite yo to take a look ay the projects I've been working at.
+Please feel free to contact me ir hoy hace any query ir suggestion. 
 
 Here are some ideas to get you started:
 
