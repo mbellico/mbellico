@@ -3,8 +3,8 @@
 <h1 align=Center> I'm Melisa D. Bellico 
 QA Automation Junior </h1>
 
-I invite yo to take a look ay the projects I've been working at.
-Please feel free to contact me ir hoy hace any query ir suggestion. 
+I invite yo to take a look at the projects I've been working at.
+Please feel free to contact me if you have any query or suggestion.
 
 Here are some ideas to get you started:
 
