@@ -1,22 +1,24 @@
-## Hello there 👋
+<h1 align=Center> Hello There! I'm Melisa D. Bellico :wave: </h1> 
 
-<h1 align=Center> I'm Melisa D. Bellico </h1>
-
-I am an Argentinian Junior QA Manual and Automation tester. :argentina: 
+I am an Argentinian Junior QA Manual and Automation tester. 
 Testing is my passion and achieving a high quality software product is my goal. :nerd_face:
-I expect to 
-
 
 I invite yo to take a look at the projects I've been working at.
 Please feel free to contact me if you have any query or suggestion.
 
-Tecnology stack I currently command
+**Tecnology stack I've been working with**
 
 <img src="https://img.shields.io/badge/-HTML-brightgreen"> <img src="https://img.shields.io/badge/-CSS-brightgreen"> <img src="https://img.shields.io/badge/-JavaScript-brightgreen">
 <img src="https://img.shields.io/badge/-Node.Js-orange"> 
 <img src="https://img.shields.io/badge/-Jest-red"> 
 <img src="https://img.shields.io/badge/-WebDriver%20IO-blue">
 
-Technologies I'm currently learning
+**Technologies I'm currently learning**
 
 <img src="https://img.shields.io/badge/-Selenium-red">
+
+### CONTACT ME: :mailbox_closed:
+
+**My Email:** melisabellico@gmail.com
+
+**My LinkedIn:** https://www.linkedin.com/in/melisabellico/
