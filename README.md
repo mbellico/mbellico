@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-<h1 align=Center> I'm Melisa D. Bellico</h1>
-<h1 align=Center> QA Automation Junior </h1>
+<h1 align=Center> I'm Melisa D. Bellico 
+QA Automation Junior </h1>
 
 I invite yo to take a look ay the projects I've been working at.
 Please feel free to contact me ir hoy hace any query ir suggestion. 
