@@ -15,7 +15,7 @@ Please feel free to contact me if you have any query or suggestion.-
 
 **Technologies I'm currently learning**
 
-<img src="https://img.shields.io/badge/-Selenium-blueviolet"> <img src="https://img.shields.io/badge/-MySQL-blueviolet"> <img src="https://img.shields.io/badge/-Java-blueviolet">
+<img src="https://img.shields.io/badge/-Selenium-blueviolet"> <img src="https://img.shields.io/badge/-Database and SQL-blueviolet"> <img src="https://img.shields.io/badge/-Java-blueviolet">
 
 ### CONTACT ME: :mailbox_closed:
 
