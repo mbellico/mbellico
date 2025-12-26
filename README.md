@@ -1,6 +1,6 @@
 <h1 align=Center> Hello There! I'm Melisa D. Bellico :wave: </h1> 
 
-I am an Argentinian Junior QA Manual and Automation tester. 
+I am an Argentinian Qualty Assurance Specialist. 
 Testing is my passion and achieving a high quality software product is my goal.
 
 I invite you to take a look at the projects I've been working at.
@@ -21,4 +21,4 @@ Please feel free to contact me if you have any query or suggestion.-
 
 **My Email:** melisabellico@gmail.com
 
-**My LinkedIn:** https://www.linkedin.com/in/melisabellico/
+**My LinkedIn:** https://www.linkedin.com/in/mbellico/
